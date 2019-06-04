@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "User": 6,
+    "Rental": 3
+  },
+  "models": {
+    "User": {
+      "1": "{\"name\":\"Joe\",\"lastName\":\"Soap\",\"email\":\"joe@mail.com\",\"cellPhone\":\"0821234567\",\"id\":1}",
+      "2": "{\"name\":\"John\",\"lastName\":\"Doe\",\"email\":\"john@mail.com\",\"cellPhone\":\"0831234567\",\"id\":2}",
+      "3": "{\"name\":\"Jane\",\"lastName\":\"Smith\",\"email\":\"jane@mail.com\",\"cellPhone\":\"0741234567\",\"id\":3}",
+      "4": "{\"name\":\"Sam\",\"lastName\":\"Hill\",\"email\":\"sam@mail.com\",\"cellPhone\":\"0829876543\",\"id\":4}",
+      "5": "{\"name\":\"Byron\",\"lastName\":\"de Villiers\",\"email\":\"byron@mail.com\",\"cellPhone\":\"0741234567\",\"id\":5}"
+    },
+    "Rental": {
+      "1": "{\"name\":\"Back To Libson Hostel\",\"address\":\"5678 Somewhere Dr.\",\"type\":\"hostel room\",\"price\":50,\"id\":1}",
+      "2": "{\"name\":\"Silo House\",\"address\":\"1234 Somewhere Dr.\",\"type\":\"entire house\",\"price\":200,\"id\":2}"
+    }
+  }
+}
